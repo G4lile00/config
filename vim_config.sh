@@ -1,3 +1,7 @@
+#install vim
+
+sudo apt install vim
+
 #folder creation
 
 mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
